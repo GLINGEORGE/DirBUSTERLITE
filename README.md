@@ -22,3 +22,4 @@
 ```bash
 git clone https://github.com/YOUR_USERNAME/directory-scanner.git
 cd directory-scanner
+python3 dirbuster.py
