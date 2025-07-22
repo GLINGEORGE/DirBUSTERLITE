@@ -34,7 +34,10 @@ Unauthorized scanning may violate laws or terms of service.
 
 
 👨‍💻 Author
-Glint Stani George
-🔗 GitHub: GLINGEORGE
-🔗 LinkedIn: glint-george-616724305
+## 👨‍💻 Author
+
+**Glint Stani George**  
+🔗 [GitHub: GLINGEORGE](https://github.com/GLINGEORGE)  
+🔗 [LinkedIn: glint-george-616724305](https://www.linkedin.com/in/glint-george-616724305)
+
 
