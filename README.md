@@ -23,3 +23,5 @@
 git clone https://github.com/YOUR_USERNAME/directory-scanner.git
 cd directory-scanner
 python3 dirbuster.py
+[*] Enter Target URL (e.g., https://example.com): https://example.com
+[*] Enter path to the wordlist file: wordlist.txt
