@@ -33,11 +33,8 @@ Unauthorized scanning may violate laws or terms of service.
 
 
 
-👨‍💻 Author
-## 👨‍💻 Author
 
-**Glint Stani George**  
-## 👨‍💻 Author
+**Glint Stani George**
 
 <p align="center">
   <a href="https://github.com/GLINGEORGE">
@@ -47,6 +44,7 @@ Unauthorized scanning may violate laws or terms of service.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 <a href="https://www.linkedin.com/in/glint-george-616724305" target="_blank">
