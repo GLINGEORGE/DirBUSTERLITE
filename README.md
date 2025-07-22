@@ -25,3 +25,10 @@ cd directory-scanner
 python3 dirbuster.py
 [*] Enter Target URL (e.g., https://example.com): https://example.com
 [*] Enter path to the wordlist file: wordlist.txt
+
+
+⚖️ Ethical Use
+Use only on systems you own or have explicit permission to test.
+Unauthorized scanning may violate laws or terms of service.
+
+
