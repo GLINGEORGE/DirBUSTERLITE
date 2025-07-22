@@ -32,3 +32,9 @@ Use only on systems you own or have explicit permission to test.
 Unauthorized scanning may violate laws or terms of service.
 
 
+
+👨‍💻 Author
+Glint Stani George
+🔗 GitHub: GLINGEORGE
+🔗 LinkedIn: glint-george-616724305
+
