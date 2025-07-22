@@ -39,9 +39,9 @@ Unauthorized scanning may violate laws or terms of service.
 **Glint Stani George**  
 ## 👨‍💻 Author
 
-<a href="https://github.com/GLINGEORGE" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GLINGEORGE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glint-george-616724305)
+
 <a href="https://www.linkedin.com/in/glint-george-616724305" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
